@@ -122,10 +122,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 59);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(472, 13);
+            this.label1.Size = new System.Drawing.Size(238, 13);
             this.label1.TabIndex = 7;
-            this.label1.Text = "Поиск осуществляется по столбцам \"Код ТН ВЭД\" и \"Описание и характеристика товара" +
-    "\"";
+            this.label1.Text = "Поиск осуществляется по столбцу \"Артикул\"";
             // 
             // MainForm
             // 
